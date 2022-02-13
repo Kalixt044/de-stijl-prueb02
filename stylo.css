@@ -1,0 +1,27 @@
+body.piet {background-color:ECF0F1;
+ }
+ h1.piet {color: red; 
+ 	font-size: 30px;
+ 	display: block;
+ 	width: 150px auto;
+ 	padding:15px;
+ 	text-align:center;}
+
+ div.piet {
+ 	background-color:teal;
+ 	color: red; 
+ 	font-size: 12px;
+ 	color: orange;
+ 	width: 150px auto;
+ 	padding:25px;
+ 	text-align: justify;}	
+
+h2 	{background-color:#82E0AA;
+	color: green; 
+ 	font-size: 8;
+ 	display: block;
+ 	width: 90px auto;
+ 	padding:15px;
+ 	text-align:center;}
+ 	 <meta name="wiewport" content="width=device-width, initial-scale=1">
+ 
